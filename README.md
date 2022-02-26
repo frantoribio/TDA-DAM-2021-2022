@@ -1,4 +1,4 @@
-# Programación - Tipo de Datos Abstractos, Colecciones y Genéricos
+# Programación - Tipo de Datos Abstractos, Colecciones y Genéricos.
 
 Tema 06 Tipo de Datos Abstracto. 1DAM. Curso 2021/2022.
 
